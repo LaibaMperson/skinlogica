@@ -2,7 +2,6 @@
 import Image from 'next/image';
 import sl from './sl.jpg';
 import logo from './logo.png';
-import services from './services.png';
 import wax from './wax.jpg';
 import laser from './laser.jpg';
 import thread from './thread.jpg';
@@ -13,7 +12,7 @@ import facial from './facial.jpg';
 
 
 
-import { ChevronRight, Phone, MapPin, Clock, Star, Instagram, Facebook, Twitter } from 'lucide-react';
+import { ChevronRight, Phone, MapPin, Clock, Star, Instagram } from 'lucide-react';
 
 export default function Home() {
   return (
