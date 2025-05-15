@@ -115,12 +115,12 @@ export default function Home() {
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
       {[
         {
-          title: 'HydraFacial',
+          title: 'Facial',
           description: 'Deeply cleanses, exfoliates, and hydrates your skin using advanced serums and suction.',
           image: facial,
         },
         {
-          title: 'Acne Treatment Facial',
+          title: 'Waxing',
           description: 'Targets breakouts and reduces inflammation with LED therapy and custom products.',
           image: thread,
         },
